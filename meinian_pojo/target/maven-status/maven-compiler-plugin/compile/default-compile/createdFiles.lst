@@ -1,0 +1,10 @@
+com\sgcc\pojo\Permission.class
+com\sgcc\pojo\OrderSetting.class
+com\sgcc\pojo\Member.class
+com\sgcc\pojo\Menu.class
+com\sgcc\pojo\Order.class
+com\sgcc\pojo\Role.class
+com\sgcc\pojo\Setmeal.class
+com\sgcc\pojo\TravelGroup.class
+com\sgcc\pojo\TravelItem.class
+com\sgcc\pojo\User.class

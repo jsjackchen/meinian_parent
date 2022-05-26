@@ -1,0 +1,6 @@
+com\sgcc\constant\MessageConstant.class
+com\sgcc\constant\RedisConstant.class
+com\sgcc\constant\QiniuUtils.class
+com\sgcc\entity\Result.class
+com\sgcc\entity\PageResult.class
+com\sgcc\entity\QueryPageBean.class

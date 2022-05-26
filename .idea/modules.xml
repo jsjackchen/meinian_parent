@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meinain_test/meinain_test.iml" filepath="$PROJECT_DIR$/meinain_test/meinain_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_common/meinian_common.iml" filepath="$PROJECT_DIR$/meinian_common/meinian_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_dao/meinian_dao.iml" filepath="$PROJECT_DIR$/meinian_dao/meinian_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_interface/meinian_interface.iml" filepath="$PROJECT_DIR$/meinian_interface/meinian_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/meinian_parent.iml" filepath="$PROJECT_DIR$/.idea/meinian_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_pojo/meinian_pojo.iml" filepath="$PROJECT_DIR$/meinian_pojo/meinian_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_service/meinian_service.iml" filepath="$PROJECT_DIR$/meinian_service/meinian_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meinian_web/meinian_web.iml" filepath="$PROJECT_DIR$/meinian_web/meinian_web.iml" />
+    </modules>
+  </component>
+</project>
